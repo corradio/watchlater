@@ -5,4 +5,5 @@ See blog post at https://oliviercorradi.wordpress.com/2013/11/19/3/
 
 ```
 pip install -r requirements.txt
+python fetchyt.py
 ```
